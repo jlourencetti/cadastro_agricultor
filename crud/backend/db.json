@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "social": "J.L Pinheiro M-E",
+            "fantasia": "Bella Vista Transporte",
+            "cnpj": "18.862.571/0001-34",
+            "celular": "66 999542382",
+            "cidade": "Rondonópolis",
+            "estado": "MT",
+            "id": 1
+        },
+        {
+            "social": "Agropecuaria ME",
+            "fantasia": "Fazenda São Benedito",
+            "cnpj": "12.456.432/0001-99",
+            "celular": "66 99876765",
+            "cidade": "Jaciara",
+            "estado": "MT",
+            "id": 2
+        }
+    ]
+}
